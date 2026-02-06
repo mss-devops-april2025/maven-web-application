@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus-Release</id>
 	      <name>nexus-repo</name>
-	      <url>http://13.126.140.12:8081/repository/Flipkart-Release/</url>
+	      <url>http://15.207.108.146:9980/pruthvi/repository/Amazon-Dev/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus-snapshot</id>
 	      <name>nexus-repo </name>
-	      <url>http://13.126.140.12:8081/repository/Flipkar-snaphot/</url>
+	      <url>http://15.207.108.146:9980/pruthvi/repository/Amazon-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
