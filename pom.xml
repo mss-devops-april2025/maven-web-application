@@ -103,7 +103,7 @@
 	    <snapshotRepository>
 	      <id>nexus-snapshot</id>
 	      <name>nexus-repo </name>
-	      <url>http://13.126.140.12:8081/repository/Flipkart-snapshot/</url>
+	      <url>http://13.126.140.12:8081/repository/Flipkar-snaphot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
