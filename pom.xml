@@ -91,7 +91,7 @@
 		</dependency>
 		
 	</dependencies>
-	<version>0.0.1</version>
+	
 	<distributionManagement>
 	
 	    <repository>
