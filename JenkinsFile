@@ -1,0 +1,11 @@
+node {
+def mavenHome = tool name: 'maven3.9.12'
+stage ('checkout'){
+git branch: 'development', credentialsId: '7be2bd63-a821-427a-b1ea-01e1d5aa8a02', url: 'https://github.com/mss-devops-april2025/maven-web-application.git'
+    
+ }
+stage('Build'){
+sh "${mavenHome}/bin/mvn clean package"
+
+  }
+}
